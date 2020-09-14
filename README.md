@@ -2,6 +2,6 @@
 
 
 Screen shots:
-[![Screenshot-1600118479.png](https://i.postimg.cc/63RmqHNV/Screenshot-1600118479.png)](https://postimg.cc/njFkwGrM)
-[![Screenshot-1600118544.png](https://i.postimg.cc/QC8JDSNd/Screenshot-1600118544.png)](https://postimg.cc/XGPCcfyR)
-[![Screenshot-1600118570.png](https://i.postimg.cc/c1FQYR4f/Screenshot-1600118570.png)](https://postimg.cc/nMQjfQmL)
+[![Screenshot-1600119464.png](https://i.postimg.cc/Rhm4Z62F/Screenshot-1600119464.png)](https://postimg.cc/jwMG85x0)
+[![Screenshot-1600119495.png](https://i.postimg.cc/XNKnDLyy/Screenshot-1600119495.png)](https://postimg.cc/s1XFMpmV)
+[![Screenshot-1600119498.png](https://i.postimg.cc/J7QWQh9N/Screenshot-1600119498.png)](https://postimg.cc/fkkFzMWy)
